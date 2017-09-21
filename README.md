@@ -1,6 +1,6 @@
 # caddy
 
-A [Docker](https://docker.com) image for [Caddy](https://caddyserver.com). This image includes the [git](https://caddyserver.com/docs/http.git) plugin.  Plugins can be configured via the `plugins` build arg.
+A [Docker](https://docker.com) image for [Caddy](https://caddyserver.com). This image includes the [git](https://caddyserver.com/docs/http.git) plugin.
 
 [![](https://images.microbadger.com/badges/image/abiosoft/caddy.svg)](https://microbadger.com/images/abiosoft/caddy "Get your own image badge on microbadger.com")
 
